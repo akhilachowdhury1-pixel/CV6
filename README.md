@@ -87,6 +87,9 @@ else:
 
 Matplotlib is used to display the results in a 1×3 subplot, showing the original color image, the slice with background, and the slice without background side by side.
 
+<img width="1182" height="270" alt="image" src="https://github.com/user-attachments/assets/96ed1a92-a3f3-4a97-8682-e5e185894c73" />
+
+
 ---
 
 ## 🧩 Slicing Structure
